@@ -1,0 +1,27 @@
+body {
+    background-color: beige;
+}
+
+canvas {
+    border: 1px solid black;
+}
+
+h1,
+p {
+    font-family: sans-serif;
+}
+
+#playingArea {
+    display: inline-block;
+}
+
+#sidePanel {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 20px;
+}
+
+#sidePanel button {
+    padding: 5px;
+    cursor: pointer;
+}
